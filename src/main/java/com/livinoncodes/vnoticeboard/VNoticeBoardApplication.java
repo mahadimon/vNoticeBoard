@@ -8,5 +8,6 @@ public class VNoticeBoardApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(VNoticeBoardApplication.class, args);
+		
 	}
 }
